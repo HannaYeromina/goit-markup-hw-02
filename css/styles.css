@@ -1,0 +1,122 @@
+body{
+    background-color: #f5f5f5;
+    font-family: Roboto,sans-serif;
+    color: #212121;
+}
+.logo {
+    font-family: Raleway;
+    font-weight:700 ; 
+    color: #000000; 
+    text-decoration: none;  
+}
+.logo-bly{
+    color: #2196f3;
+}
+.nav{
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 16px;
+    text-decoration: none;
+    color: #000000;
+}
+.nav:hover{
+    color: #2196f3 ;
+}
+.contact-header{
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 16.41px;
+    text-decoration: none;
+    color: #757575;
+}
+.contact-header:hover{
+    color: #2196f3;
+}
+.hero{
+    background-color:#2f303a ;
+}
+.hero-h{
+    font-weight: 900;
+    font-size: 44px;
+    line-height: 60px;
+    color:#ffffff;
+}
+.hero-button{
+    font-weight:700;
+    line-height: 30px;
+    color:#ffffff;
+    background-color: #2196f3;
+    cursor: pointer;
+}
+.work-h{
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 16.41px;
+}
+.work-p{
+    font-size: 14px ;
+    line-height: 24px;
+    color: #757575
+}
+.second-title{
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 42.19px;
+}
+.name{
+    font-weight: 500;
+    line-height: 18.75;
+}
+.job-title{
+    line-height: 18.75px;
+    color: #757575;
+}
+.footer{
+    background-color: #2f303a;
+}
+.address-footer{
+    font-size: 14px;
+    line-height: 24px;
+    color: #ffffff;
+    text-decoration: none;
+}
+.address-footer:hover{
+    color:#2196f3 ;
+}
+.contact-footer{
+    font-size: 14px;
+    line-height: 24px;
+    color: #ffffff;
+    text-decoration: none;
+}
+.contact-footer:hover{
+    color: #2196f3;
+}
+.logo-footer{
+    font-family: Raleway;
+    font-weight: 700;
+    text-decoration: none;
+    color:#ffffff;
+}
+.nav-portfolio{
+    font-weight: 500;
+    line-height: 26px;
+    text-decoration: none;
+    color: #212121;
+    
+}
+.nav-portfolio:hover {
+    color: #ffffff;
+    background-color:#2196f3;
+}
+.title-portfolio{
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 36px;
+
+}
+.paragraph-portfolio{
+    font-size: 16px;
+    line-height: 30px;
+    color: #757575;
+}
